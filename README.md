@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Paul Weill
-- 👀 I’m interested in learning code and discovering cool projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on an email ai engine
-- 📫 How to reach me : linkedin > @paulweill
+# Hey, I'm Paul! 👋
 
-<!---
-PaulWll/PaulWll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a computer science student at **42 Paris**, currently exploring the fundamentals of programming and computer systems.
+
+Before diving into computer science, I spent a few years working in entrepreneurship and developing my own software products.
+
+### 💻 What I'm up to
+
+- Learning **C, Unix and systems programming** at 42 Paris.
+- Exploring memory management, algorithms and low-level programming.
+- Working on school projects and experimenting with code on my own.
+
+### 🔭 What I'm curious about
+
+I'm especially interested in **robotics, artificial intelligence and embedded systems**. I'm fascinated by how software can interact with the physical world.
+
+### 🛠️ Projects
+
+You'll find my 42 projects and personal experiments in my repositories.
+
+### 🌍 Elsewhere
+
+[Website](https://paulweill.com) (WIP) · [LinkedIn](https://www.linkedin.com/in/paulweill)
